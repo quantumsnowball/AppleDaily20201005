@@ -18,5 +18,5 @@
 #### HSBC (0005.HK) dividend discount model valuation (2 stages)
 ![](results/0005_ddm_2stages.png "HSBC (0005.HK) dividend discount model valuation (2 stages)")
 
-#### DDM model multivariate surface plot
+#### HSBC (0005.HK) DDM model multivariate surface plot
 ![](results/ddm_multivirate_surface.png "DDM model multivariate surface plot")
