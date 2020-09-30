@@ -1,4 +1,6 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/quantumsnowball/AppleDaily20201005/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/quantumsnowball/AppleDaily20201005/master) (Jupyter Notebook)  
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/quantumsnowball/AppleDaily20201005/master?urlpath=lab) (Jupyter Lab)
 
 ---
 
