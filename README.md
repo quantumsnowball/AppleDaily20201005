@@ -3,8 +3,8 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/quantumsnowball/AppleDaily20201005/master?urlpath=lab) (Jupyter Lab)
 
 ---
-
-# AppleDaily20201005
+# Dividend Discount Model
+### [AppleDaily20201005](#Dividend-Discount-Model)
 
 #### HSBC (0005.HK) share price
 ![](results/0005_price.png "HSBC (0005.HK) share price")
